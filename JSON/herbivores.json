@@ -1,0 +1,30 @@
+[
+    {
+        "animal": "elephant",
+        "type": "herbivore"
+    },
+    {
+        "animal": "gorilla",
+        "type": "herbivore"
+    },
+    {
+        "animal": "giraffe",
+        "type": "herbivore"
+    },
+    {
+        "animal": "cow",
+        "type": "herbivore"
+    },
+    {
+        "animal": "horse",
+        "type": "herbivore"
+    },
+    {
+        "animal": "donkey",
+        "type": "herbivore"
+    },
+    {
+        "animal": "goat",
+        "type": "herbivore"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "animal": "wolf",
+        "type": "carnivore"
+    },
+    {
+        "animal": "lion",
+        "type": "carnivore"
+    },
+    {
+        "animal": "shark",
+        "type": "carnivore"
+    },
+    {
+        "animal": "tiger",
+        "type": "carnivore"
+    },
+    {
+        "animal": "bear",
+        "type": "carnivore"
+    },
+    {
+        "animal": "T-Rex",
+        "type": "carnivore"
+    },
+    {
+        "animal": "cat",
+        "type": "carnivore"
+    }
+]
